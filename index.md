@@ -71,12 +71,12 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
   <center> 
    <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
    <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh"> </a>
-    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh">  </a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh">  </a>
+    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh"></a>
+    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
+  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh"></a>
+  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh"></a>
    <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a></div></p>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
 
 <hr/>
 <img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=chhabraharsh37&show_icons=true&theme=radical&count_private=true'/>
