@@ -95,7 +95,7 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 ![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
 
 ## Badges
-<p><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
+<p><a href='https://docs.github.com/en/developers'><img src='pics/devbadge.gif' width='40' height='40'</a> <a href='https://education.github.com/pack'><img src='pics/pro.gif' width='40' height='40'></a></p>
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p>
