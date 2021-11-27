@@ -15,12 +15,12 @@ layout: default
   
   <img width="50%" align="right" alt="Github" src="pics/typing.gif">
  
-👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
+<p>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
 👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
 👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
 👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
 👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"><br>
+👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"><br></p>
   
 I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" height="20vh">.<br>
 
@@ -94,8 +94,8 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 
 ![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
 
-## Badges
-<p><a href='https://docs.github.com/en/developers'><img src='pics/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='pics/pro.gif' width='40' height='40'></a></p>
+<h3>Badges</h3>
+<a href='https://docs.github.com/en/developers'><img src='pics/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='pics/pro.gif' width='40' height='40'></a>
 
-## Support
-<p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p>
+<h3>Support</h3>
+<a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a>
