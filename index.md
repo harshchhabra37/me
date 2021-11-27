@@ -11,16 +11,16 @@ layout: default
  
 <img src="pics/octo.gif" width="100px" height="100px"> <br>
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)
   
   <img width="50%" align="right" alt="Github" src="pics/typing.gif">
  
-<p>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
+<👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
 👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
 👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
 👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
 👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></p>
+👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"><br>
   
 I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" height="20vh">.<br>
 
