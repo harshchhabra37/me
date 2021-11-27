@@ -1,5 +1,5 @@
 ---
-title: "Make a Website with Only Markdown"
+title: "me"
 permalink: /
 layout: default
 ---
@@ -9,9 +9,11 @@ layout: default
 <h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Harsh Chhabra </h1>
  
  
-<img src="pics/octo.gif" width="100px" height="100px"> <br><br>
+<img src="pics/octo.gif" width="100px" height="100px"> <br>
+  
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
-  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+  
+  <img width="50%" align="right" alt="Github" src="pics/typing.gif">
  
 <p>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
 👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
@@ -20,21 +22,17 @@ layout: default
 👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
 👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></p>
   
-I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" height="20vh">.
+I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" height="20vh">.<br>
 
-📝 I regularly write articles on <strong>Medium</strong>  <img src="pics/medium.png" height="20vh"> 
+📝 I regularly write articles on <strong>Medium</strong>  <img src="pics/medium.png" height="20vh">
  and <strong>Hashnode</strong> <img src="pics/hashnode.png" height="20vh">.<br>
 
 ⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
 . </h4><br>
 
-<a href="https://github.com/chhabraharsh37">
-    <img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic">
-</a> 
+<a href="https://github.com/chhabraharsh37"><img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic"></a> 
 <a href="https://github.com/chhabraharsh37?tab=followers"><img src="https://img.shields.io/github/followers/chhabraharsh37?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/chhabraharsh37">
-    <img src="https://img.shields.io/twitter/follow/chhabraharsh37?style=social">
-</a> 
+<a href="https://twitter.com/chhabraharsh37"><img src="https://img.shields.io/twitter/follow/chhabraharsh37?style=social"></a> 
 
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
 <a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='pics/html.svg'></a>
