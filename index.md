@@ -37,19 +37,19 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 </a> 
 
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='pics/html.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= "> <img width ='32px' src ='pics/css.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= "> <img width ='32px' src ='pics/bootstrap.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= "> <img width ='32px' src ='pics/javascript.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= "> <img width ='32px' src ='pics/typescript.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= "> <img width ='32px' src ='pics/c.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= "> <img width ='32px' src ='pics/cpp.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= "> <img width ='32px' src ='pics/python.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= "> <img width ='32px' src ='pics/nodejs.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= "> <img width ='32px' src ='pics/reactjs.svg'> </a>
-<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= "> <img width ='32px' src ='pics/ruby.svg'> </a>
-<a href= "https://www.mongodb.com"> <img width ='32px' src ='pics/mongodb.svg'> </a>
-<a href= "https://www.mysql.com"> <img width ='32px' src ='pics/mysql.svg'> </a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='pics/html.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= "> <img width ='32px' src ='pics/css.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= "> <img width ='32px' src ='pics/bootstrap.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= "> <img width ='32px' src ='pics/javascript.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= "> <img width ='32px' src ='pics/typescript.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= "> <img width ='32px' src ='pics/c.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= "> <img width ='32px' src ='pics/cpp.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= "> <img width ='32px' src ='pics/python.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= "> <img width ='32px' src ='pics/nodejs.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= "> <img width ='32px' src ='pics/reactjs.svg'></a>
+<a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= "> <img width ='32px' src ='pics/ruby.svg'></a>
+<a href= "https://www.mongodb.com"> <img width ='32px' src ='pics/mongodb.svg'></a>
+<a href= "https://www.mysql.com"> <img width ='32px' src ='pics/mysql.svg'></a>
 <a href= "https://git-scm.com"> <img width ='32px' src ='pics/git.svg'> </a>
 <a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='pics/github.svg'> </a>
 <a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'> </a>
@@ -71,9 +71,9 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 <p align="left">
 <div class="footer" id="top3">
   <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
+   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh"></a>
    <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></a>
-    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
+    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh"> </a>
     <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
   <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh">  </a>
   <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh">  </a>
