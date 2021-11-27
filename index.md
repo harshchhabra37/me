@@ -96,4 +96,4 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 <a href='https://docs.github.com/en/developers'><img src='pics/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='pics/pro.gif' width='40' height='40'></a>
 
 <h2>Support</h2>
-<a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></div>
+<a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></div><br><br>
