@@ -4,8 +4,6 @@ permalink: /
 layout: default
 ---
 
-<h4 align="center"> 
-  
 <h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Harsh Chhabra </h1>
  
  
