@@ -48,16 +48,16 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 <a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= "> <img width ='32px' src ='pics/ruby.svg'></a>
 <a href= "https://www.mongodb.com"> <img width ='32px' src ='pics/mongodb.svg'></a>
 <a href= "https://www.mysql.com"> <img width ='32px' src ='pics/mysql.svg'></a>
-<a href= "https://git-scm.com"> <img width ='32px' src ='pics/git.svg'> </a>
-<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='pics/github.svg'> </a>
-<a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'> </a>
-<a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'> </a>
-<a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='pics/postman.svg'> </a>
-<a href= "https://firebase.google.com"> <img width ='32px' src ='pics/firebase.svg'> </a>
-<a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'> </a>
-<a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a>
-<a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a>
-<a href= "https://www.linux.org"> <img width ='32px' src ='pics/linux.svg'> </a></p>
+<a href= "https://git-scm.com"> <img width ='32px' src ='pics/git.svg'></a>
+<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='pics/github.svg'></a>
+<a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'></a>
+<a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'></a>
+<a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='pics/postman.svg'></a>
+<a href= "https://firebase.google.com"> <img width ='32px' src ='pics/firebase.svg'></a>
+<a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'></a>
+<a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'></a>
+<a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'></a>
+<a href= "https://www.linux.org"> <img width ='32px' src ='pics/linux.svg'></a></p>
 <!-- <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='pics/jupyter.svg'> </a> --->
 
 <br>
@@ -94,12 +94,8 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 
 ![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
 
-
 ## Badges
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
+<p><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
 
 ## Support
-<p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p><br><br>
-<br>
+<p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p>
