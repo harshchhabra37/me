@@ -1,8 +1,3 @@
----
-title: "me"
-permalink: /
-layout: default
----
 
 <!-- Start of Async Drift Code -->
 <script>
