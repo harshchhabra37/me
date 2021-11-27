@@ -11,13 +11,13 @@ layout: default
  
 <img src="pics/octo.gif" width="100px" height="100px"> <br>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)
+
   
   <img width="50%" align="right" alt="Github" src="pics/typing.gif">
  
 <p>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
 👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
-👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
+👉 <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
 👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
 👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
 👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"><br></p>
@@ -91,8 +91,6 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
    <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&column=8">
   </a>
 </div><hr>
-
-![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
     
  <div align="left">
 <h2>Badges</h2>
