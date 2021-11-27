@@ -49,7 +49,6 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 <a href= "https://www.mongodb.com"> <img width ='32px' src ='pics/mongodb.svg'></a>
 <a href= "https://www.mysql.com"> <img width ='32px' src ='pics/mysql.svg'></a>
 <a href= "https://git-scm.com"> <img width ='32px' src ='pics/git.svg'></a>
-<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='pics/github.svg'></a>
 <a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'></a>
 <a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'></a>
 <a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='pics/postman.svg'></a>
