@@ -24,7 +24,7 @@ I love to spend time at <strong>GitHub</strong> <img src="pics/github.svg" heigh
 
 <a href="https://github.com/chhabraharsh37"><img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic"></a> 
 <a href="https://github.com/chhabraharsh37?tab=followers"><img src="https://img.shields.io/github/followers/chhabraharsh37?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/chhabraharsh37"><img src="https://img.shields.io/twitter/follow/chhabraharsh37?style=social"></a> 
+<a href="https://twitter.com/harshchhabra37"><img src="https://img.shields.io/twitter/follow/chhabraharsh37?style=social"></a> 
 
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
 <a href= "https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='pics/html.svg'></a>
